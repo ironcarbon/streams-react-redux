@@ -1,79 +1,14 @@
 {
   "streams": [
     {
-      "title": "cc",
-      "description": "aa",
-      "id": 1
-    },
-    {
-      "title": "aa",
-      "description": "bb",
-      "id": 2
-    },
-    {
-      "title": "aa",
-      "description": "bb",
-      "id": 3
-    },
-    {
-      "title": "my stream",
-      "description": "great stream",
-      "id": 4
-    },
-    {
-      "title": "my stream",
-      "description": "great stream",
-      "id": 5
-    },
-    {
-      "title": "my stream",
-      "description": "great stream",
-      "id": 6
-    },
-    {
-      "title": "my stream",
-      "description": "great stream",
-      "id": 7
-    },
-    {
-      "title": "my stream",
-      "description": "great stream",
-      "id": 8
-    },
-    {
-      "title": "my stream",
-      "description": "great stream",
-      "id": 9
-    },
-    {
       "title": "my stream",
       "description": "great stream",
       "id": 10
     },
     {
-      "title": "my stream",
-      "description": "great stream",
-      "id": 11
-    },
-    {
       "title": "other stream",
       "description": "here's some stream",
       "id": 12
-    },
-    {
-      "title": "my stream",
-      "description": "great stream",
-      "id": 13
-    },
-    {
-      "title": "my stream",
-      "description": "great stream",
-      "id": 14
-    },
-    {
-      "title": "dgd",
-      "description": "gdgd",
-      "id": 15
     },
     {
       "title": "I created this stream",
