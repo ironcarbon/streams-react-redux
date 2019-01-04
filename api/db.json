@@ -16,21 +16,9 @@
       "id": 16
     },
     {
-      "title": "Unexpected Behavior",
-      "description": "This change was made by a PATCH request",
-      "userId": "117549457590476778573",
-      "id": 17
-    },
-    {
       "title": "abc",
       "description": "def",
       "id": 18
-    },
-    {
-      "title": "Me Streaming Component Reuse!",
-      "description": "Watch me refactor some components.",
-      "userId": "117549457590476778573",
-      "id": 19
     }
   ]
 }
